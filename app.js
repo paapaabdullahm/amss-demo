@@ -1,1 +1,3 @@
-console.log('hello');
+const name = 'matin';
+
+console.log(`hello ${name}`);
