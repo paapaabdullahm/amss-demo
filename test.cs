@@ -4,3 +4,5 @@ var y = 6;
 var z = x + y;
 
 Console.Writeline(z);
+
+log()
